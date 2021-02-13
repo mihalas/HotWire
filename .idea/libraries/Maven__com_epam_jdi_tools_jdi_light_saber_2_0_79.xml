@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.epam.jdi.tools:jdi-light-saber:2.0.79">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.79/jdi-light-saber-2.0.79.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.79/jdi-light-saber-2.0.79-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.79/jdi-light-saber-2.0.79-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
